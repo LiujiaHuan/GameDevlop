@@ -3,6 +3,6 @@
 &nbsp;&nbsp;<kbd>***Editor***:VScode<kbd>
   
 ## Study_Note
-**uncategorized is all here** [这个链接到另一个文件](./Study/Unity3D/Note/uncategorized.md)
+**uncategorized is all here** [Link](./Study/Unity3D/Note/uncategorized.md)
 ## Demo
 * Demo_Clock [Link](./Study/Unity3D/Demo_Clock)

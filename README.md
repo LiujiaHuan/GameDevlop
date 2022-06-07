@@ -1,5 +1,5 @@
 # Unity3D 
-* **Environment**: &nbsp;&nbsp;<kbd>***Unity***:2021.3.4f1c1 LTS</kbd>&nbsp;&nbsp;<kbd>***Windows***:10</kbd>&nbsp;&nbsp;<kbd>***Language***:c#</kbd>
+* **Environment**: &nbsp;&nbsp;<kbd>***Unity***:2021.3.4f1c1 LTS</kbd>&nbsp;&nbsp;<kbd>***Windows***:10</kbd>&nbsp;&nbsp;<kbd>***Language***:C#</kbd>
 &nbsp;&nbsp;<kbd>***Editor***:VScode<kbd>
   
 ## Study_Note
